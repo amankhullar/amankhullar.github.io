@@ -1,16 +1,16 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
+Inquisitive, amiable and hardworking are some adjectives used for me by the people who know me.
 
-My name is Inigo Montoya. I have the following qualities:
+I am Aman Khullar, a senior undergraduate student at the Netaji Subhas Universitty of Technology. I am majoring in the field of Information Technology. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Philosophy
+I ardently believe that we can change the world with constant and conscientious effort.
 
-What else do you need?
+My main motivation is to build my knowledge in the field of computer science and to benefit the people around me.
 
-### my history
+I would love to be in contact with anyone who has a similar philosophy and would like to work with me on one of my projects.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Interests
+When I am not working you can find me:
+- Running in ground
+- Reading a novel in my couch
+- Learning about marvels of the Universe
