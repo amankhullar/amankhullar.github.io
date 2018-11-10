@@ -1,4 +1,4 @@
-#Hi, nice to meet you!
+### Hi, nice to meet you!
 Inquisitive, amiable and hardworking are some adjectives used for me by the people who know me.
 
 I am Aman Khullar, a senior undergraduate student at the Netaji Subhas University of Technology. I am majoring in the field of Information Technology. 
