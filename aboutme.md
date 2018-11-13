@@ -1,3 +1,7 @@
+---
+layout: page
+title: About me
+---
 ### Hi, nice to meet you!
 Inquisitive, amiable and hardworking are some adjectives used for me by the people who know me.
 
